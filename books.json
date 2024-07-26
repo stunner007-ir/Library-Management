@@ -1,0 +1,14 @@
+[
+    {
+        "title": "History of Time",
+        "author": "Stephen Hawking",
+        "isbn": "isbn-10",
+        "available": false
+    },
+    {
+        "title": "Maths",
+        "author": "sharma",
+        "isbn": "20",
+        "available": true
+    }
+]
